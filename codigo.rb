@@ -1,5 +1,5 @@
 def saluda 
-	puts "mi primer proyecto de git"
+	puts "Guardar archivo nuevo "
 end 
 
 saluda ()
